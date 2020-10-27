@@ -4,8 +4,8 @@
 
 ## I'm a Student and Developer!
 
-- 🔭 I’m currently working on A Levels!
-- 🌱 I’m currently learning NodeJS Passport
+- 🔭 I’m currently working on: A Levels!
+- 🌱 I’m currently learning: React JS
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love sports and I play powerchair football
 
@@ -43,4 +43,4 @@
 
 [website]: https://jackhumphries.co.uk
 [instagram]: https://instagram.com/jackphumphries
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://linkedin.com/in/jack-humphries/
