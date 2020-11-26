@@ -5,7 +5,7 @@
 ## I'm a Student and Developer!
 
 - 🔭 I’m currently working on: A Levels!
-- 🌱 I’m currently learning: React JS
+- 🌱 I’m currently learning: about scalable web architecture.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love sports and I play powerchair football
 
