@@ -41,6 +41,6 @@
 
 </details>
 
-[website]: https://jackhumphries.co.uk
+[website]: https://jackhumphries.dev
 [instagram]: https://instagram.com/jackphumphries
 [linkedin]: https://linkedin.com/in/jack-humphries/
