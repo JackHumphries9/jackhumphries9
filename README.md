@@ -1,6 +1,6 @@
 ### Hi there, I'm Jack 👋
 
-[![Website](https://img.shields.io/website?label=jackhumphries.co.uk&style=for-the-badge&url=https%3A%2F%2Fjackhumphries.co.uk)](https://jackhumphries.co.uk)
+[![Website](https://img.shields.io/website?label=jackhumphries.dev&style=for-the-badge&url=https%3A%2F%2Fjackhumphries.dev)](https://jackhumphries.dev)
 
 ## I'm a Student and Developer!
 
