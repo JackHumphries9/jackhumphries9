@@ -1,7 +1,7 @@
 ### Hi there, I'm Jack 👋
 
 [![Website](https://img.shields.io/website?label=jackhumphries.dev&style=for-the-badge&url=https%3A%2F%2Fjackhumphries.dev)](https://jackhumphries.dev)
-
+[![https://blog.jackhumphries.dev](https://img.shields.io/website?label=blog.jackhumphries.dev&style=for-the-badge&url=https%3A%2F%2Fblog.jackhumphries.dev)](https://blog.jackhumphries.dev)
 ## I'm a Student and Developer!
 
 - 🔭 I’m currently working on: A Levels!
