@@ -4,9 +4,9 @@
 [![https://blog.jackhumphries.dev](https://img.shields.io/website?label=blog.jackhumphries.dev&style=for-the-badge&url=https%3A%2F%2Fblog.jackhumphries.dev)](https://blog.jackhumphries.dev)
 ## I'm a Student and Developer!
 
-- 🔭 I’m currently working on: A BSC Computer Science Degree.
-- 🌱 I’m currently learning: C++ and X11.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently working on: A BSc Computer Science Degree.
+- 🌱 I’m currently learning: NextJS and Typescript.
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love sports and I play powerchair football
 
 ### Connect with me:
