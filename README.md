@@ -42,7 +42,8 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jackhumphries09&show_icons=true&hide_border=true" />
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jackhumphries9)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </details>
 
