@@ -5,7 +5,7 @@
 ## I'm a Student and Developer!
 
 - 🔭 I’m currently working on: A BSc Computer Science Degree.
-- 🌱 I’m currently learning: Dotnet Asp, Docker and Kubernetes
+- 🌱 I’m currently learning: ASP .NET, Docker and Kubernetes
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love sports and I play powerchair football
 
