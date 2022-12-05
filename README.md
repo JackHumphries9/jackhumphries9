@@ -1,11 +1,11 @@
 ### Hi there, I'm Jack 👋
 
 [![Website](https://img.shields.io/website?label=jackhumphries.io&style=for-the-badge&url=https%3A%2F%2Fjackhumphries.io)](https://jackhumphries.io)
-## I'm a Student and Developer!
+## I'm a Student and Software Developer @ [Crue](https://crue.club)!
 
 - 🔭 I’m currently working on: A BSc Computer Science Degree.
-- 🌱 I’m currently learning: ASP .NET, Docker and Kubernetes
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning: Serverless and AWS
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love sports and I play powerchair football
 
 ### Connect with me:
