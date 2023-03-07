@@ -4,7 +4,7 @@
 ## I'm a Student and Software Developer @ [Crue](https://crue.club)!
 
 - 🔭 I’m currently working on: A BSc Computer Science Degree.
-- 🌱 I’m currently learning: Go Lang and Microservices
+- 🌱 I’m currently learning: C++, OpenSceneGraph and SDL2
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love sports and I play powerchair football
 
