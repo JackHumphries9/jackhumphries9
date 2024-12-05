@@ -1,10 +1,10 @@
 ### Hi there, I'm Jack 👋
 
 [![Website](https://img.shields.io/website?label=jackhumphries.io&style=for-the-badge&url=https%3A%2F%2Fjackhumphries.io)](https://jackhumphries.io)
-## I'm a Student and Software Developer @ [Crue](https://crue.club)!
+## I'm a Software Developer from Greater Manchester
 
-- 🔭 I’m currently working on: A BSc Computer Science Degree.
-- 🌱 I’m currently learning: React Native and Expo
+- 🔭 I’m currently working on: Many different projects!.
+- 🌱 I’m currently learning: Computer Vision and AI
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love sports and I play powerchair football
 
@@ -47,5 +47,5 @@
 </details>
 
 [website]: https://jackhumphries.io
-[instagram]: https://instagram.com/jackphumphries
+[instagram]: https://instagram.com/jackh02
 [linkedin]: https://linkedin.com/in/jack-humphries/
